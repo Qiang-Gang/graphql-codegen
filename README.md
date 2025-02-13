@@ -1,1 +1,1 @@
-# codegen
+# GraphQL Codegen
